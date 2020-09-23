@@ -14,8 +14,7 @@ My driving factor to be a developer can be best summed up as CLEAR. So what is C
 
 Read more about it [here](https://medium.com/@BTSSteve/why-become-a-developer-its-clear-2a439fb099a4)
 
-## Connect with Me Across the Web
-* https://stevenvandenburg.com
+## :coffee: Connect with Me
 * https://twitter.com/stevevandenburg
 * https://medium.com/@BTSSteve
 * https://www.linkedin.com/in/stevenvandenburg/
