@@ -1,6 +1,6 @@
 <h1>:wave: Hi, I'm Steve Vandenburg</h1>
 
-I'm a Dad, DJ, and Developer. As a Full-Stack Developer I've built projects using React, Node, Vanilla JS, and Python. I have extensive project management experience across enterprises large and small. From public companies to startups I've worked with cross-functional teams to deliver security and IT projects timely and on budget. I'm looking forward to my next challenge as a Developer.
+I'm a Dad, DJ, and Developer. As a Full-Stack Developer I've built projects using React, Node, Vanilla JS, PostgreSQL and Python. I have extensive project management experience across enterprises large and small. From public companies to startups I've worked with cross-functional teams to deliver security and IT projects timely and on budget. I'm looking forward to my next challenge as a Developer.
 
 <h2>:star2: Why I'm a Developer</h2>
 
