@@ -4,7 +4,7 @@ I'm a Dad, DJ, and Developer. As a Full-Stack Developer I've built projects usin
 
 <h2>:star2: Why I'm a Developer</h2>
 
-My driving factor as a developer can be best summed up as CLEAR. So what is CLEAR?
+My driving factor to be a developer is CLEAR. So what is CLEAR?
 
 * Craftsmanship
 * Leverage
