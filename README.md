@@ -18,4 +18,4 @@ Read more about it [here](https://medium.com/@BTSSteve/why-become-a-developer-it
 * [Twitter](https://twitter.com/stevevandenburg)
 * [Linkedin](https://www.linkedin.com/in/stevenvandenburg/)
 * [Blog](https://medium.com/@BTSSteve)
-* [Website](https://www.stevenvandenburg.com)
+* [Website](https://www.stevenvandenburg.dev)
